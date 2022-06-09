@@ -1,0 +1,21 @@
+{
+  "name": "CCC",
+  "website": "https://ccc.org",
+  "description": "CCC token is a test token",
+  "explorer": "https://ccc.info",
+  "research": "https://research.binance.com/cn/projects/ccc",
+  "symbol": "CCC",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/test/ccc"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ccctoken"
+    }
+  ]
+}

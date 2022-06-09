@@ -1,0 +1,21 @@
+{
+  "name": "wCCC",
+  "website": "https://ccc.org",
+  "description": "wCCC token is a wrap token",
+  "explorer": "https://ccc.info",
+  "research": "https://research.binance.com/cn/projects/ccc",
+  "symbol": "CCC",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/test/ccc"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ccctoken"
+    }
+  ]
+}

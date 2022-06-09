@@ -1,0 +1,10 @@
+[
+  {
+    "name": "CCC Token",
+    "address": "0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9",
+    "symbol": "CCC",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/bsc.testnet/assets/0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9/logo.png"
+  }
+]
