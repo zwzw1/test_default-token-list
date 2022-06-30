@@ -1,0 +1,10 @@
+[
+  {
+    "name": "CCC Token",
+    "address": "0x73D79009943eb9eFF5a71CC0731e2929Aa522ab8",
+    "symbol": "CCC",
+    "decimals": 18,
+    "chainId": 18801,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/rinkeby/assets/0x73D79009943eb9eFF5a71CC0731e2929Aa522ab8/logo.png"
+  }
+]

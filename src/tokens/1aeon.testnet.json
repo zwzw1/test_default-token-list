@@ -4,7 +4,23 @@
     "address": "0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9",
     "symbol": "CCC",
     "decimals": 18,
-    "chainId": 97,
+    "chainId": 18801,
     "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/1aeon.testnet/assets/0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9/logo.png"
+  },
+  {
+    "name": "Chain Link",
+    "address": "0x32aE85e564395E735409636638040a06e4d2FC53",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 18801,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/1aeon.testnet/assets/0x32aE85e564395E735409636638040a06e4d2FC53/logo.png"
+  },
+  {
+    "name": "USDT Token",
+    "address": "0x3892D48328A2A35Dda42A55fa4e41d6254312a27",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 18801,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/1aeon.testnet/assets/0x3892D48328A2A35Dda42A55fa4e41d6254312a27/logo.png"
   }
 ]

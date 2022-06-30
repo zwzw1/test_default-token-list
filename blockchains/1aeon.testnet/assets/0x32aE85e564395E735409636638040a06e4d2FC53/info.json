@@ -1,0 +1,25 @@
+{
+  "name": "Wrap Rinkeby Token",
+  "website": "https://chain.link/",
+  "description": "Link",
+  "explorer": "https://www.binance.com/en/trade/LINK_USDT",
+  "research": "https://research.binance.com/cn/projects/link",
+  "symbol": "wLINK",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/smartcontractkit/chainlink"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/chainlink"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/chainlinkofficial"
+    }
+  ]
+}

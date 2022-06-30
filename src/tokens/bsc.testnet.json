@@ -6,5 +6,21 @@
     "decimals": 18,
     "chainId": 97,
     "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/bsc.testnet/assets/0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9/logo.png"
+  },
+  {
+    "name": "Chain Link",
+    "address": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 18801,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/bsc.testnet/assets/0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06/logo.png"
+  },
+  {
+    "name": "USDT Token",
+    "address": "0x7ef95a0FEE0Dd31b22626fA2e10Ee6A223F8a684",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 18801,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/bsc.testnet/assets/0x7ef95a0FEE0Dd31b22626fA2e10Ee6A223F8a684/logo.png"
   }
 ]

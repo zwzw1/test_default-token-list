@@ -1,0 +1,21 @@
+{
+  "name": "Binance-Peg BSC-USD",
+  "website": "https://tether.to",
+  "description": "Binance-Peg BSC-USD",
+  "explorer": "https://www.binance.com/en/trade/BNB_USDT",
+  "research": "https://research.binance.com/cn/projects/usdt",
+  "symbol": "USDT",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/test/ccc"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ccctoken"
+    }
+  ]
+}
