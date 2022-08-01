@@ -1,0 +1,21 @@
+{
+  "name": "wEEE",
+  "website": "https://EEE.org",
+  "description": "EEE token is a test token",
+  "explorer": "https://EEE.info",
+  "research": "https://research.binance.com/cn/projects/EEE",
+  "symbol": "wEEE",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/test/EEE"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/EEEtoken"
+    }
+  ]
+}

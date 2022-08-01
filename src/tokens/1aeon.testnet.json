@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/1aeon.testnet/assets/0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9/logo.png"
   },
   {
+    "name": "Wrap EEE Token",
+    "address": "0x95a584C26609D795Cb1EF97186d9C0ef7D829eE9",
+    "symbol": "wEEE",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/1aeon.testnet/assets/0x95a584C26609D795Cb1EF97186d9C0ef7D829eE9/logo.png"
+  },
+  {
     "name": "Chain Link",
     "address": "0x32aE85e564395E735409636638040a06e4d2FC53",
     "symbol": "LINK",

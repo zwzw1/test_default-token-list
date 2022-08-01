@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/bsc.testnet/assets/0xDA1A4cDec6B62FDCDcCdb51CB213FD6580181ba9/logo.png"
   },
   {
+    "name": "EEE Token",
+    "address": "0xf2fC460fCe6e848e3fdDB34253ee55873654CFA0",
+    "symbol": "EEE",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/zwzw1/test_default-token-list/dev/blockchains/bsc.testnet/assets/0xf2fC460fCe6e848e3fdDB34253ee55873654CFA0/logo.png"
+  },
+  {
     "name": "Chain Link",
     "address": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
     "symbol": "LINK",
