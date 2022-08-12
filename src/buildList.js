@@ -9,7 +9,7 @@ const aeonTest = require("./tokens/aeonTest.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Default List",
+    name: "Aeon Labs List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -17,8 +17,9 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "default"],
+    logoURI:
+      "https://dev-bridge.snailsteam.com/static/media/AElogo.a165e889.svg",
+    keywords: ["aeon", "default"],
     tokens: [
       ...mainnet,
       ...ropsten,
