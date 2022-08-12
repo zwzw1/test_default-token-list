@@ -1,0 +1,18 @@
+[
+  {
+    "chainId": 18801,
+    "address": "0x59Be045a9172fAd0966ff7D2585DcBCF18C6694E",
+    "name": "USDT Token",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "chainId": 18801,
+    "address": "0xeE2a27908F76D70a9eB913D68F68657C14f138F7",
+    "name": "Box Token",
+    "symbol": "Box",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1597397942"
+  }
+]
