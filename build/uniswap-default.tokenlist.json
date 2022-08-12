@@ -1,15 +1,15 @@
 {
-  "name": "Uniswap Default List",
-  "timestamp": "2022-08-12T09:28:23.171Z",
+  "name": "Aeon Labs List",
+  "timestamp": "2022-08-12T09:34:39.250Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "https://dev-bridge.snailsteam.com/static/media/AElogo.a165e889.svg",
   "keywords": [
-    "uniswap",
+    "aeon",
     "default"
   ],
   "tokens": [
