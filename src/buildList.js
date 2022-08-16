@@ -1,9 +1,5 @@
 const { version } = require("../package.json");
-const mainnet = require("./tokens/mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
-const rinkeby = require("./tokens/rinkeby.json");
-const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");
+
 const aeonTest = require("./tokens/aeonTest.json");
 
 module.exports = function buildList() {
@@ -20,14 +16,7 @@ module.exports = function buildList() {
     logoURI:
       "https://dev-bridge.snailsteam.com/static/media/AElogo.a165e889.svg",
     keywords: ["aeon", "default"],
-    tokens: [
-      ...mainnet,
-      ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby,
-      ...aeonTest,
-    ]
+    tokens: [...aeonTest]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

@@ -2,17 +2,57 @@
   {
     "chainId": 18801,
     "address": "0x59Be045a9172fAd0966ff7D2585DcBCF18C6694E",
-    "name": "USDT Token",
-    "symbol": "USDT",
+    "name": "W1Æ",
+    "symbol": "W1Æ",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "chainId": 18801,
-    "address": "0xeE2a27908F76D70a9eB913D68F68657C14f138F7",
-    "name": "Box Token",
-    "symbol": "Box",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1597397942"
+    "address": "0x588285Fc71B6616523ebd12F515b2b2B23B67460",
+    "name": "WBTC",
+    "symbol": "WBTC",
+    "decimals": 6,
+    "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  },
+  {
+    "chainId": 18801,
+    "address": "0x2dB09DA626157a429FcC96Bb08Fd38069bea9915",
+    "name": "WETH",
+    "symbol": "WETH",
+    "decimals": 6,
+    "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/logos/main/token/eth.jpg"
+  },
+  {
+    "chainId": 18801,
+    "address": "0xEbA06A9f088850FEfb2f7Ee117f41e8Fcd36552b",
+    "name": "WBNB",
+    "symbol": "WBNB",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/Sexy-J/JieSwap/main/src/assets/img/bnb.png"
+  },
+  {
+    "chainId": 18801,
+    "address": "0x25a83Ce76AD66c91cA4b2F333347Bd2777499d6d",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+  },
+  {
+    "chainId": 18801,
+    "address": "0xe102b83602f84E3624f9122da23338F59499246E",
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/Sexy-J/JieSwap/main/src/assets/img/usdt.png"
+  },
+  {
+    "chainId": 18801,
+    "address": "0x588285Fc71B6616523ebd12F515b2b2B23B67460",
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 6,
+    "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   }
 ]
