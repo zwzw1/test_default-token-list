@@ -1,10 +1,10 @@
 {
   "name": "Aeon Labs List",
-  "timestamp": "2022-08-16T03:11:34.095Z",
+  "timestamp": "2022-08-16T06:17:43.843Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dev-bridge.snailsteam.com/static/media/AElogo.a165e889.svg",
@@ -40,8 +40,8 @@
     {
       "chainId": 18801,
       "address": "0x128BD1B21fA64Fdb4Cfedc41dbCd6aE14b88A59E",
-      "name": "Wrapped 1Æ",
-      "symbol": "W1Æ",
+      "name": "Wrapped 1AE",
+      "symbol": "W1AE",
       "decimals": 6,
       "logoURI": "https://dev-bridge.snailsteam.com/static/media/AElogo.a165e889.svg"
     },
