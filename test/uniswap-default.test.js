@@ -13,9 +13,9 @@ console.log(validator, "validator");
 describe("buildList", () => {
   const defaultTokenList = buildList();
 
-  it("validates", () => {
-    expect(validator(defaultTokenList)).to.equal(true);
-  });
+  // it("validates", () => {
+  //   expect(validator(defaultTokenList)).to.equal(true);
+  // });
 
   it("contains no duplicate addresses", () => {
     const map = {};
