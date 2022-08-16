@@ -1,6 +1,6 @@
 {
   "name": "Aeon Labs List",
-  "timestamp": "2022-08-16T06:17:43.843Z",
+  "timestamp": "2022-08-16T07:39:44.830Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -18,7 +18,7 @@
       "address": "0x974E7b936C63ff9819A82e601C7b09a7c8640887",
       "name": "DAI",
       "symbol": "DAI",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     },
     {
@@ -26,7 +26,7 @@
       "address": "0x25a83Ce76AD66c91cA4b2F333347Bd2777499d6d",
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
     },
     {
@@ -34,7 +34,7 @@
       "address": "0xe102b83602f84E3624f9122da23338F59499246E",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Sexy-J/JieSwap/main/src/assets/img/usdt.png"
     },
     {
@@ -42,7 +42,7 @@
       "address": "0x128BD1B21fA64Fdb4Cfedc41dbCd6aE14b88A59E",
       "name": "Wrapped 1AE",
       "symbol": "W1AE",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://dev-bridge.snailsteam.com/static/media/AElogo.a165e889.svg"
     },
     {
@@ -50,7 +50,7 @@
       "address": "0xEbA06A9f088850FEfb2f7Ee117f41e8Fcd36552b",
       "name": "WBNB",
       "symbol": "WBNB",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Sexy-J/JieSwap/main/src/assets/img/bnb.png"
     },
     {
@@ -58,7 +58,7 @@
       "address": "0x588285Fc71B6616523ebd12F515b2b2B23B67460",
       "name": "WBTC",
       "symbol": "WBTC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "address": "0x2dB09DA626157a429FcC96Bb08Fd38069bea9915",
       "name": "WETH",
       "symbol": "WETH",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,fl_sanitize,q_auto,w_48/https://raw.githubusercontent.com/sushiswap/logos/main/token/eth.jpg"
     }
   ]
