@@ -1,6 +1,6 @@
 {
   "name": "Aeon Labs List",
-  "timestamp": "2022-08-16T02:26:28.021Z",
+  "timestamp": "2022-08-16T02:34:17.819Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -15,7 +15,7 @@
   "tokens": [
     {
       "chainId": 18801,
-      "address": "0x588285Fc71B6616523ebd12F515b2b2B23B67460",
+      "address": "0x974E7b936C63ff9819A82e601C7b09a7c8640887",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 6,
@@ -39,7 +39,7 @@
     },
     {
       "chainId": 18801,
-      "address": "0x59Be045a9172fAd0966ff7D2585DcBCF18C6694E",
+      "address": "0x04803497A9d947D3a72E2980101EBCBdbEc52F65",
       "name": "W1Æ",
       "symbol": "W1Æ",
       "decimals": 6,
