@@ -1,5 +1,4 @@
 const { version } = require("../package.json");
-
 const aeonTest = require("./tokens/aeonTest.json");
 
 module.exports = function buildList() {

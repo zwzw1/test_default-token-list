@@ -8,8 +8,6 @@ const buildList = require("../src/buildList");
 const ajv = new Ajv({ allErrors: true, format: "full" });
 const validator = ajv.compile(schema);
 
-console.log(validator, "validator");
-
 describe("buildList", () => {
   const defaultTokenList = buildList();
 

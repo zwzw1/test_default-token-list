@@ -1,6 +1,6 @@
 {
   "name": "cj-default-token-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "◦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
